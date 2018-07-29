@@ -9,6 +9,7 @@ buildscript {
     ext.rx_android_version = '2.0.2'
     ext.rx_java_version = '2.1.14'
     ext.dagger_version = '2.16'
+    ext.retrofit_version = '2.4.0'
 
     repositories {
         google()
